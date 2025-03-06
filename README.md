@@ -8,7 +8,7 @@ This project performs sentiment analysis on news headlines using Natural Languag
 <h2>Features</h2>
 
 
-• Sentiment Analysis: Uses NLTK’s SentimentIntensityAnalyzer to compute sentiment scores for news titles\
+• Sentiment Analysis: Uses NLTK’s SentimentIntensityAnalyzer to compute sentiment scores for news titles.\
 •	Web Scraping: Fetches news headlines using BeautifulSoup and urllib.request.\
 •	Date Processing: Cleans and normalizes date formats for accurate time-based sentiment tracking.\
 •	Data Visualization: Uses matplotlib to generate insights from sentiment trends over time.\
