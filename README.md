@@ -1,17 +1,28 @@
+<h1>News Sentiment Analysis</h1>
 
 <h2>Description</h2>
-Created sentiment analysis of stock news showcasing skills in webscraping, Matplotlib, and Pandas
+This project performs sentiment analysis on news headlines using Natural Language Processing (NLP) techniques. It utilizes web scraping to collect news data and applies VADER sentiment analysis to determine the sentiment polarity of news headlines. Please see the code in the files section or see the pictures below.
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
-
-- <b>Python (Pandas, Numpy, Matplotlib, VaderSentiment, Beautiful Soup)</b> 
+<h2>Features</h2>
 
 
-<h2>Software Used </h2>
+•Sentiment Analysis: Uses NLTK’s SentimentIntensityAnalyzer to compute sentiment scores for news titles
+•	Web Scraping: Fetches news headlines using BeautifulSoup and urllib.request.
+•	Date Processing: Cleans and normalizes date formats for accurate time-based sentiment tracking.
+•	Data Visualization: Uses matplotlib to generate insights from sentiment trends over time.
+•	Data Handling: Utilizes Pandas for data storage, manipulation, and preprocessing.
 
-- <b>Visual Code</b> 
+
+
+<h2>Technologies Used</h2>
+
+Python,
+NLTK (VADER Sentiment Analyzer),
+BeautifulSoup (Web Scraping),
+Pandas (Data Processing)
+
 
 <h2>Project walk-through:</h2>
 <p align="center">
